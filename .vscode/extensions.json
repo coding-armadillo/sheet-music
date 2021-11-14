@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "jeandeaual.lilypond-syntax",
+        "ms-vscode.wordcount",
+        "naumovs.theme-oceanicnext",
+        "oderwat.indent-rainbow",
+        "pkief.material-product-icons",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
