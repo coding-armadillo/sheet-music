@@ -10,7 +10,6 @@
   \fixed c' {
     \key c \major
     \time 4/4
-    \tempo 4 = 160
     c d e c
     c d e c
     \break
@@ -25,5 +24,5 @@
   }
 
   \layout {}
-  \midi {}
+  \midi { \tempo 4 = 160 }
 }
