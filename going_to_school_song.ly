@@ -20,6 +20,17 @@
     \tuplet 2/1 {gis b}
     \tuplet 2/1 {gis e}
     \tuplet 2/1 {fis gis}
+    b r
+    \tuplet 2/1 {e fis} \tuplet 2/1 {gis e} b r
+    \tuplet 2/1 {cis' cis'} \tuplet 2/1 {e' cis'} b r
+    \break
+    \tuplet 2/1 {cis' cis'} e'
+    \tuplet 2/1 {b cis'} gis
+    \break
+    \tuplet 2/1 {cis' b}
+    \tuplet 2/1 {gis b}
+    \tuplet 2/1 {gis e}
+    \tuplet 2/1 {fis gis}
     e r
   }
 
